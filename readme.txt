@@ -21,3 +21,5 @@ Instructions you can follow to set up this project
 =>In the end if you face any error, issue or there is any feedback feel free to contact me.
 
 =>for admin login username - admin@kitoinfocom.com and pswd = 123456
+
+First Task = there is form in checkout page which use captcha and csrf both check this page for task 1
